@@ -51,6 +51,7 @@ To get started with the repository, you will need:
 - `05-subreddit-sentiment-analysis-template.ipynb` - Script for sentiment analysis of posts.
 - `data/` - Folder for storing scraped and cleaned data.
 - `output/` - Folder for storing analysis results.
+- `contractions.txt` - Text file full of all contractions without apostrophes. Imported during lexical analysis.
 
 ## Future Work
 
