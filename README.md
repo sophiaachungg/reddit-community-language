@@ -60,10 +60,6 @@ This project is an initial step toward understanding the role of language in fos
 - Applying more sophisticated natural language processing (NLP) techniques to understand contextual / semantic relationships.
 - Expanding sentiment analysis to include multiple dimensions of emotion.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! Please create an issue or submit a pull request if you would like to add to or improve the analysis.
